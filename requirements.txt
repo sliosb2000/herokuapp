@@ -7,3 +7,11 @@ PyYAML==3.10
 requests==2.18.4
 scipy==1.0.1
 tornado==5.0.1
+folium == 0.13.0
+hvplot == 0.8.0
+matplotlib == 3.5.2
+panel == 0.14.1
+param == 1.12.0
+plotly == 5.9.0
+pyforbes == 1.0.3
+seaborn == 0.11.2
